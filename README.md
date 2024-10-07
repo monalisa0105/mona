@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-Computer Science Final year Undergraduate Student @SRMIST 🎓 | Passionate about AI & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
+Computer Science First year Undergraduate Student @SRMIST 🎓 | Passionate about AI & Machine Learning 🤖 | Exploring the realms of technology and innovation! ✨
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-lal&label=Profile%20views&color=51b4f2&style=flat" alt="abhay-lal" /> </p>
 
